@@ -8,9 +8,11 @@
 
 - 🌱 I’m currently learning **ML and Deep Learning basics**
 
+- 🧑‍💻 I'm currently working as a core member of the Google Developer Students Club IIT Goa
+
 - 📫 How to reach me **abhinavreddygutha@gmail.com**
 
-- ⚡ Fun fact **Love watching Cricket, Movies and TV Series.**
+- ⚡ Fun fact **Love playing Cricket 🏏, watch TV Series 🍿.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
