@@ -1,35 +1,173 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)](https://16AbhinavReddy.io)
-<h1 align="center">Hi 👋, I'm Abhinav Reddy</h1>
-<h3 align="center">ML Enthusiasts and a passionate Frontend Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=16abhinavreddy&label=Profile%20views&color=0e75b6&style=flat" alt="16abhinavreddy" /> </p>
+# Abhinav Reddy 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=16abhinavreddy" alt="16abhinavreddy" /></a> </p>
-<img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<div align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-IUDX%20%7C%20IISc%20Bengaluru-blue?style=for-the-badge&logo=github" alt="Software Engineer at IUDX">
+  <img src="https://img.shields.io/badge/Computer%20Science-B.Tech-green?style=for-the-badge&logo=university" alt="B.Tech CSE">
+</div>
 
-- 🌱 I’m currently learning **ML and Deep Learning basics**
+---
 
-- 🧑‍💻 I'm currently working as a core member of the Google Developer Students Club IIT Goa
+## 🚀 About Me
 
-- 📫 How to reach me **abhinavreddygutha@gmail.com**
+I am a passionate **Software Engineer** with a strong foundation in Computer Science and hands-on expertise in **DevOps**, **Distributed Systems**, and **Machine Learning**. As a **Gold Medalist** at IIT Goa and an **Engineer at IUDX, IISc Bengaluru**, I've led the deployment of secure, scalable software systems and contributed to various projects, research and leadership roles.
 
-- ⚡ Fun fact **Love playing Cricket 🏏, watch TV Series 🍿.**
+My toolkit includes **Docker**, **Kubernetes**, **AWS**, and **Azure**, driving innovation across industry projects and research. Outside of work, I enjoy competitive programming, have earned the **Specialist Tag on Codeforces** and **Knight Badge on Leetcode**, and love staying active at the gym and on the sports field.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abhinav-reddy-gutha-12b010223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav reddy gutha" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abd.devilliers.777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinav reddy" height="30" width="40" /></a>
-<a href="https://instagram.com/16abhinavreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="16abhinavreddy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCAMhFz6TbXQs1K13SiX97mQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhinav reddy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhinav_reddy_21?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhinav_reddy_21" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abhinav.reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhinav.reddy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/16abhinavreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="16abhinavreddy" height="30" width="40" /></a>
-</p>
+**Driven by curiosity and a spirit of continuous learning**, I thrive on solving meaningful problems and connecting ideas across disciplines.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=16abhinavreddy&show_icons=true&locale=en&layout=compact" alt="16abhinavreddy" /></p>
+## 💼 Professional Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=16abhinavreddy&show_icons=true&locale=en" alt="16abhinavreddy" /></p>
+### 🔧 **Software Engineer** | *Indian Urban Data Exchange (IUDX), IISc Bengaluru*
+*Current*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=16abhinavreddy&" alt="16abhinavreddy" /></p>
+- **P3DX Project**: Contributed to a secure platform enabling confidential data storage and trusted application execution using secure enclaves
+- **Secure Processing**: Designed and deployed end-to-end secure processing prototype for farmer credit application on AKS-based cluster with CoCo components
+- **Federated Learning**: Implemented federated learning on P3DX using AMD-SEV TEEs integrated with OpenFL framework
+- **Custom ISO Images**: Built custom Fedora and RHEL ISO images configured as peerpod VMs with CoCo components
+- **Platform Management**: Deployed and managed TgDeX (Telangana Data Exchange Platform) using Docker, Kubernetes, Helm, AWS, and Azure
+
+### 🔬 **Research and Development Intern** | *Indian Urban Data Exchange (IUDX), IISc Bengaluru*
+*Previous*
+
+- **P3DX Platform**: Worked on secure enclaves for confidential data storage and secure application execution
+- **Azure Deployment**: Deployed CoCo components using Azure Kubernetes cluster on Azure SEV-SNP platform
+- **Custom RHEL ISO**: Built Custom RHEL ISO configured with CoCo binaries and SSH enabled for debugging workflows
+
+### 🏢 **Software Development Intern** | *Slickbit Technologies*
+*Previous*
+
+- **Merchant Platform**: Developed Spinov's merchant side for sport betting, enabling points to redeem restaurant discounts
+- **Backend Development**: Built FastAPI and MySQL backend for 24-hour upcoming and past 1-month match database management
+- **Notification System**: Developed Firebase notifications for live upcoming match alerts to multiple users
+- **API Integration**: Implemented queuing-based scheduler for daily API calls using API-SPORTS and RapidAPI platforms
+
+---
+
+## 🏆 Achievements & Recognition
+
+### 🥇 **Academic Excellence**
+- **Gold Medalist** - Best Overall Outgoing Student, IIT Goa Batch 2025
+- **JEE Advanced**: AIR 5320 (2021)
+- **JEE Main**: 99.42 percentile (2021)
+
+### 🏅 **Competitive Programming**
+- **Codeforces**: Specialist Tag (1422 rating)
+- **LeetCode**: Knight Badge (1865 rating)
+
+### 🎯 **Hackathons & Competitions**
+- **Amazon ML Summer School 2024**: Selected among 3,000 members from 85,000+ applicants
+- **NPCI Hackathon**: 6th position out of 50 teams (Data Science and AI)
+- **SIP Abacus Competition**: 2nd runner-up once, 3rd runner-up twice (Regional level)
+
+---
+
+## 🎯 Leadership & Community
+
+### 👥 **Leadership Roles**
+- **GoMyno Club Head** (Aug 2023 - May 2024): Fostered 250+ member coding community, POC for ICPC 2023
+- **Internship Coordinator** (July 2023 - May 2024): Managed B.Tech 2021 student internships at IIT Goa's Career Development Cell
+- **GDSC Core Member** (Sep 2022 - May 2023): Guided 100+ students in Deep Learning, covering Feature Engineering, Classification, and Regression
+- **Event CoHead - Cepheus** (Oct 2022 - Feb 2023): Organized 3 events for IIT Goa's technical fest
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 **Programming Languages**
+- Python, JavaScript, Java, C++, C, Dart, Haskell, Prolog
+
+### ☁️ **Cloud & DevOps**
+- **Cloud Platforms**: AWS, Azure
+- **Containerization**: Docker, Kubernetes, Helm
+- **Infrastructure**: Terraform, CI/CD pipelines
+- **Monitoring**: Prometheus, Grafana
+
+### 🤖 **Machine Learning & AI**
+- **Deep Learning**: TensorFlow, PyTorch, Keras
+- **NLP**: Transformers, BERT, GPT models
+- **ML Libraries**: Scikit-learn, Pandas, NumPy
+- **Computer Vision**: OpenCV, Image Processing
+
+### 🗄️ **Databases & Backend**
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Backend**: FastAPI, Django, Node.js
+- **Message Queues**: Redis, RabbitMQ
+- **APIs**: RESTful APIs, GraphQL
+
+### 🔧 **Tools & Technologies**
+- **Version Control**: Git, GitHub, GitLab
+- **IDEs**: VS Code, PyCharm, IntelliJ IDEA
+- **Operating Systems**: Linux, Windows, macOS
+- **Other**: Jupyter Notebooks, Apache Kafka, Elasticsearch
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=16AbhinavReddy&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16AbhinavReddy&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+</div>
+
+---
+
+## 🏅 Competitive Programming Profiles
+
+<div align="center">
+  <a href="https://codeforces.com/profile/16AbhinavReddy">
+    <img src="https://img.shields.io/badge/Codeforces-16AbhinavReddy-blue?style=for-the-badge&logo=codeforces" alt="Codeforces">
+  </a>
+  <a href="https://leetcode.com/16AbhinavReddy/">
+    <img src="https://img.shields.io/badge/LeetCode-16AbhinavReddy-orange?style=for-the-badge&logo=leetcode" alt="LeetCode">
+  </a>
+</div>
+
+---
+
+## 🔬 Research Interests
+
+I have extensive experience in **Machine Learning**, particularly in **Natural Language Processing (NLP)** and **Recommender Systems**. I'm eager to expand my skills in:
+
+- **Computer Vision** and **Generative AI**
+- **Large Language Models (LLMs)**
+- **Federated Learning** and **Privacy-Preserving ML**
+- **Secure Multi-Party Computation**
+- **Distributed Systems** and **Microservices Architecture**
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="mailto:abhinavreddygutha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhinavreddygutha@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/abhinav-reddy-gutha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Reddy-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/16AbhinavReddy">
+    <img src="https://img.shields.io/badge/GitHub-16AbhinavReddy-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://twitter.com/16AbhinavReddy">
+    <img src="https://img.shields.io/badge/Twitter-16AbhinavReddy-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+</div>
+
+---
+
+## 📍 Location
+
+**Nagole, Hyderabad, India** 🇮🇳
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=16AbhinavReddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/16AbhinavReddy?label=Followers&style=social" alt="GitHub Followers">
+</div>
+
+---
+
+*"Driven by curiosity and a spirit of continuous learning, I thrive on solving meaningful problems and connecting ideas across disciplines."* ✨
