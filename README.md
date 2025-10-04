@@ -126,18 +126,6 @@ My toolkit includes **Docker**, **Kubernetes**, **AWS**, and **Azure**, driving 
 
 ---
 
-## 🔬 Research Interests
-
-I have extensive experience in **Machine Learning**, particularly in **Natural Language Processing (NLP)** and **Recommender Systems**. I'm eager to expand my skills in:
-
-- **Computer Vision** and **Generative AI**
-- **Large Language Models (LLMs)**
-- **Federated Learning** and **Privacy-Preserving ML**
-- **Secure Multi-Party Computation**
-- **Distributed Systems** and **Microservices Architecture**
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
