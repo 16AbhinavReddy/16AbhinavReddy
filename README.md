@@ -1,7 +1,7 @@
 # Abhinav Reddy 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-IUDX%20%7C%20IISc%20Bengaluru-blue?style=for-the-badge&logo=github" alt="Software Engineer at IUDX">
+  <img src="https://img.shields.io/badge/Software%20Engineer-CDPG%20%7C%20IISc%20Bengaluru-blue?style=for-the-badge&logo=github" alt="Software Engineer at CDPG">
   <img src="https://img.shields.io/badge/Computer%20Science-B.Tech-green?style=for-the-badge&logo=university" alt="B.Tech CSE">
 </div>
 
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **Software Engineer** with a strong foundation in Computer Science and hands-on expertise in **DevOps**, **Distributed Systems**, and **Machine Learning**. As a **Gold Medalist** at IIT Goa and an **Engineer at IUDX, IISc Bengaluru**, I've led the deployment of secure, scalable software systems and contributed to various projects, research and leadership roles.
+I am a passionate **Software Engineer** with a strong foundation in Computer Science and hands-on expertise in **DevOps**, **Distributed Systems**, and **Machine Learning**. As a **Gold Medalist** at IIT Goa and an **Engineer at CDPG, IISc Bengaluru**, I've led the deployment of secure, scalable software systems and contributed to various projects, research and leadership roles.
 
 My toolkit includes **Docker**, **Kubernetes**, **AWS**, and **Azure**, driving innovation across industry projects and research. Outside of work, I enjoy competitive programming, have earned the **Specialist Tag on Codeforces** and **Knight Badge on Leetcode**, and love staying active at the gym and on the sports field.
 
